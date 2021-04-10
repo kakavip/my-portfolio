@@ -1,0 +1,13 @@
+{
+  "title": "Quang Ngo | Portfolio",
+  "siteUrl": "https://brianruizy.com/",
+  "description": "Quang Ngo is a Ho Chi Minh based Software Engineer specializing in Python full-stack, web applications and data analytics.",
+  "home": {
+    "name": "Quang Ngo",
+    "username": "quang.ngo",
+    "role": "Software Engineer",
+    "summary": "I specialize in Python full-stack development, front-end design, data analytics, cloud computing, and I'm interested in all things technology.",
+    "availability": "Open to new opportunities",
+    "location": "Ho Chi Minh, VN"
+  }
+}
